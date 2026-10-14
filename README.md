@@ -25,10 +25,9 @@
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Central** (Bogotá), en último semestre.
 - 🔐 Me apasiona la **ciberseguridad**: construyo mi propio laboratorio *purple team* para aprender atacando y defendiendo.
-- 🧪 En formación en **QA / Testing** y automatización.
 - 🌱 Aprendiendo y certificándome: **eJPT**, **CompTIA Security+**, **ISTQB CTFL** y **Cisco Networking Academy**.
 - 🗣️ Español (nativo) · Inglés (B2).
-- 📫 ¿Hablamos? Busco mi **práctica profesional** en desarrollo, ciberseguridad o QA.
+
 
 ---
 
